@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
-
 # Rabin Karp Algorithm 
 d = 256
 def search(pat, txt, q):
@@ -35,16 +29,6 @@ txt = "Coding is fun"
 pat = "Coding"
 q = 101
 search(pat, txt, q)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 

@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 #stack
 stack = []
 stack.append('a')
@@ -17,16 +11,5 @@ print(stack.pop())
 print(stack.pop())
 print('\nStack after elements are popped:')
 print(stack)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
